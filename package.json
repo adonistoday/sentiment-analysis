@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "@google-cloud/language": "^5.2.2",
+    "@google-cloud/local-auth": "^2.1.0",
+    "@google-cloud/speech": "^5.4.0",
+    "@google-cloud/storage": "^6.9.5",
+    "csv-writer": "^1.6.0",
+    "ffmpeg": "^0.0.4",
+    "fluent-ffmpeg": "^2.1.2",
+    "fs": "^0.0.1-security",
+    "google-auth-library": "^8.7.0",
+    "googleapis": "^105.0.0",
+    "mp3-to-wav": "^0.1.11",
+    "sox-stream": "^2.0.6"
+  }
+}
