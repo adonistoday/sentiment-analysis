@@ -47,5 +47,5 @@ async function transcribeSpeech() {
                                 .join('\n');
   console.log(`Transcription: ${transcription}`);
 }
-              
+
 transcribeSpeech();
