@@ -36,7 +36,7 @@ async function transcribeSpeech() {
     audio: audio,
     config: config,
   };
-
+   
   // Detects speech in the audio file. This creates a recognition job that you 
   // can wait for now, or get its result later.
   const [operation] = await client.longRunningRecognize(request);

@@ -1,5 +1,5 @@
 const speech = require('@google-cloud/speech');
-
+const fs = require('fs');
 // Instantiates a client.
 const client = new speech.SpeechClient();
 
@@ -56,13 +56,18 @@ async function transcribeSpeech() {
                                       currentSpeaker=speakerTag;
                                     }
                                     
-                                    
                                   });
                                   
                                   return transcript;
                                 })
                                 .join('\n');
-  console.log(`Transcription: ${transcription}`);
+                       // Save transcription to JSON file
+  const transcriptionData = { transcription };
+  const jsonContent = JSON.stringify(transcriptionData, null, 2);
+  fs.writeFileSync('transcription.json', jsonContent);
+         
+  // console.log(`Transcription: ${transcription}`);
+  return transcription;
 }
 
 transcribeSpeech();
