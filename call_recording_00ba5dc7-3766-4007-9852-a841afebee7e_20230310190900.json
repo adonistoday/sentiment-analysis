@@ -1,0 +1,3781 @@
+{
+  "transcription": [
+    {
+      "startTime": {
+        "nanos": 500000000
+      },
+      "endTime": {
+        "seconds": "1",
+        "nanos": 200000000
+      },
+      "word": "Both",
+      "confidence": 0.8136013150215149,
+      "speakerTag": 2
+    },
+    {
+      "startTime": {
+        "seconds": "1",
+        "nanos": 900000000
+      },
+      "endTime": {
+        "seconds": "2",
+        "nanos": 100000000
+      },
+      "word": "are",
+      "confidence": 0.7059506177902222,
+      "speakerTag": 1
+    },
+    {
+      "startTime": {
+        "seconds": "2",
+        "nanos": 100000000
+      },
+      "endTime": {
+        "seconds": "2",
+        "nanos": 300000000
+      },
+      "word": "you?",
+      "confidence": 0.8418673872947693,
+      "speakerTag": 1
+    },
+    {
+      "startTime": {
+        "seconds": "3",
+        "nanos": 200000000
+      },
+      "endTime": {
+        "seconds": "3",
+        "nanos": 600000000
+      },
+      "word": "Hi,",
+      "confidence": 0.4845138192176819,
+      "speakerTag": 1
+    },
+    {
+      "startTime": {
+        "seconds": "4"
+      },
+      "endTime": {
+        "seconds": "4",
+        "nanos": 100000000
+      },
+      "word": "how",
+      "confidence": 0.8185156583786011,
+      "speakerTag": 1
+    },
+    {
+      "startTime": {
+        "seconds": "4",
+        "nanos": 100000000
+      },
+      "endTime": {
+        "seconds": "4",
+        "nanos": 200000000
+      },
+      "word": "are",
+      "confidence": 0.7228084802627563,
+      "speakerTag": 1
+    },
+    {
+      "startTime": {
+        "seconds": "4",
+        "nanos": 200000000
+      },
+      "endTime": {
+        "seconds": "4",
+        "nanos": 400000000
+      },
+      "word": "you?",
+      "confidence": 0.7270813584327698,
+      "speakerTag": 1
+    },
+    {
+      "startTime": {
+        "seconds": "5"
+      },
+      "endTime": {
+        "seconds": "5",
+        "nanos": 200000000
+      },
+      "word": "Pretty",
+      "confidence": 0.9128385782241821,
+      "speakerTag": 2
+    },
+    {
+      "startTime": {
+        "seconds": "5",
+        "nanos": 200000000
+      },
+      "endTime": {
+        "seconds": "5",
+        "nanos": 600000000
+      },
+      "word": "good.",
+      "confidence": 0.43530768156051636,
+      "speakerTag": 2
+    },
+    {
+      "startTime": {
+        "seconds": "5",
+        "nanos": 600000000
+      },
+      "endTime": {
+        "seconds": "5",
+        "nanos": 900000000
+      },
+      "word": "Hey,",
+      "confidence": 0.7531307339668274,
+      "speakerTag": 2
+    },
+    {
+      "startTime": {
+        "seconds": "5",
+        "nanos": 900000000
+      },
+      "endTime": {
+        "seconds": "6"
+      },
+      "word": "I",
+      "confidence": 0.710479736328125,
+      "speakerTag": 2
+    },
+    {
+      "startTime": {
+        "seconds": "6"
+      },
+      "endTime": {
+        "seconds": "6",
+        "nanos": 300000000
+      },
+      "word": "just",
+      "confidence": 0.7531307339668274,
+      "speakerTag": 2
+    },
+    {
+      "startTime": {
+        "seconds": "6",
+        "nanos": 300000000
+      },
+      "endTime": {
+        "seconds": "6",
+        "nanos": 500000000
+      },
+      "word": "sent",
+      "confidence": 0.9128385782241821,
+      "speakerTag": 2
+    },
+    {
+      "startTime": {
+        "seconds": "6",
+        "nanos": 500000000
+      },
+      "endTime": {
+        "seconds": "7",
+        "nanos": 800000000
+      },
+      "word": "you.",
+      "confidence": 0.3561456501483917,
+      "speakerTag": 1
+    },
+    {
+      "startTime": {
+        "seconds": "10",
+        "nanos": 600000000
+      },
+      "endTime": {
+        "seconds": "10",
+        "nanos": 700000000
+      },
+      "word": "I",
+      "confidence": 0.9128385782241821,
+      "speakerTag": 1
+    },
+    {
+      "startTime": {
+        "seconds": "10",
+        "nanos": 700000000
+      },
+      "endTime": {
+        "seconds": "10",
+        "nanos": 900000000
+      },
+      "word": "just",
+      "confidence": 0.9128385782241821,
+      "speakerTag": 1
+    },
+    {
+      "startTime": {
+        "seconds": "10",
+        "nanos": 900000000
+      },
+      "endTime": {
+        "seconds": "11",
+        "nanos": 200000000
+      },
+      "word": "send",
+      "confidence": 0.7677177786827087,
+      "speakerTag": 1
+    },
+    {
+      "startTime": {
+        "seconds": "11",
+        "nanos": 200000000
+      },
+      "endTime": {
+        "seconds": "11",
+        "nanos": 600000000
+      },
+      "word": "you",
+      "confidence": 0.8555657267570496,
+      "speakerTag": 1
+    },
+    {
+      "startTime": {
+        "seconds": "11",
+        "nanos": 600000000
+      },
+      "endTime": {
+        "seconds": "12",
+        "nanos": 500000000
+      },
+      "word": "a",
+      "confidence": 0.9128385782241821,
+      "speakerTag": 1
+    },
+    {
+      "startTime": {
+        "seconds": "16",
+        "nanos": 800000000
+      },
+      "endTime": {
+        "seconds": "17",
+        "nanos": 100000000
+      },
+      "word": "a",
+      "confidence": 0.775493860244751,
+      "speakerTag": 1
+    },
+    {
+      "startTime": {
+        "seconds": "17",
+        "nanos": 600000000
+      },
+      "endTime": {
+        "seconds": "17",
+        "nanos": 900000000
+      },
+      "word": "the",
+      "confidence": 0.8902053833007812,
+      "speakerTag": 1
+    },
+    {
+      "startTime": {
+        "seconds": "17",
+        "nanos": 900000000
+      },
+      "endTime": {
+        "seconds": "18",
+        "nanos": 100000000
+      },
+      "word": "pick",
+      "confidence": 0.7072396874427795,
+      "speakerTag": 1
+    },
+    {
+      "startTime": {
+        "seconds": "18",
+        "nanos": 100000000
+      },
+      "endTime": {
+        "seconds": "18",
+        "nanos": 200000000
+      },
+      "word": "up",
+      "confidence": 0.7072397470474243,
+      "speakerTag": 1
+    },
+    {
+      "startTime": {
+        "seconds": "18",
+        "nanos": 200000000
+      },
+      "endTime": {
+        "seconds": "18",
+        "nanos": 400000000
+      },
+      "word": "here",
+      "confidence": 0.7534431219100952,
+      "speakerTag": 1
+    },
+    {
+      "startTime": {
+        "seconds": "18",
+        "nanos": 400000000
+      },
+      "endTime": {
+        "seconds": "18",
+        "nanos": 600000000
+      },
+      "word": "for",
+      "confidence": 0.9128385782241821,
+      "speakerTag": 1
+    },
+    {
+      "startTime": {
+        "seconds": "18",
+        "nanos": 600000000
+      },
+      "endTime": {
+        "seconds": "19",
+        "nanos": 500000000
+      },
+      "word": "Pomona.",
+      "confidence": 0.7085878252983093,
+      "speakerTag": 1
+    },
+    {
+      "startTime": {
+        "seconds": "19",
+        "nanos": 900000000
+      },
+      "endTime": {
+        "seconds": "20",
+        "nanos": 100000000
+      },
+      "word": "You",
+      "confidence": 0.9128385782241821,
+      "speakerTag": 1
+    },
+    {
+      "startTime": {
+        "seconds": "20",
+        "nanos": 100000000
+      },
+      "endTime": {
+        "seconds": "20",
+        "nanos": 300000000
+      },
+      "word": "should",
+      "confidence": 0.9128385782241821,
+      "speakerTag": 1
+    },
+    {
+      "startTime": {
+        "seconds": "20",
+        "nanos": 300000000
+      },
+      "endTime": {
+        "seconds": "20",
+        "nanos": 500000000
+      },
+      "word": "be",
+      "confidence": 0.6676386594772339,
+      "speakerTag": 1
+    },
+    {
+      "startTime": {
+        "seconds": "20",
+        "nanos": 500000000
+      },
+      "endTime": {
+        "seconds": "20",
+        "nanos": 600000000
+      },
+      "word": "on",
+      "confidence": 0.9128385782241821,
+      "speakerTag": 1
+    },
+    {
+      "startTime": {
+        "seconds": "20",
+        "nanos": 600000000
+      },
+      "endTime": {
+        "seconds": "20",
+        "nanos": 800000000
+      },
+      "word": "your",
+      "confidence": 0.7054461240768433,
+      "speakerTag": 1
+    },
+    {
+      "startTime": {
+        "seconds": "20",
+        "nanos": 800000000
+      },
+      "endTime": {
+        "seconds": "20",
+        "nanos": 900000000
+      },
+      "word": "app",
+      "confidence": 0.9128385782241821,
+      "speakerTag": 1
+    },
+    {
+      "startTime": {
+        "seconds": "20",
+        "nanos": 900000000
+      },
+      "endTime": {
+        "seconds": "22",
+        "nanos": 100000000
+      },
+      "word": "already",
+      "confidence": 0.6052147746086121,
+      "speakerTag": 1
+    },
+    {
+      "startTime": {
+        "seconds": "22",
+        "nanos": 200000000
+      },
+      "endTime": {
+        "seconds": "22",
+        "nanos": 400000000
+      },
+      "word": "but",
+      "confidence": 0.6810674071311951,
+      "speakerTag": 1
+    },
+    {
+      "startTime": {
+        "seconds": "23",
+        "nanos": 600000000
+      },
+      "endTime": {
+        "seconds": "23",
+        "nanos": 900000000
+      },
+      "word": "it's",
+      "confidence": 0.9128385782241821,
+      "speakerTag": 1
+    },
+    {
+      "startTime": {
+        "seconds": "23",
+        "nanos": 900000000
+      },
+      "endTime": {
+        "seconds": "24",
+        "nanos": 300000000
+      },
+      "word": "basically",
+      "confidence": 0.9128385782241821,
+      "speakerTag": 1
+    },
+    {
+      "startTime": {
+        "seconds": "24",
+        "nanos": 300000000
+      },
+      "endTime": {
+        "seconds": "24",
+        "nanos": 400000000
+      },
+      "word": "the",
+      "confidence": 0.7200648188591003,
+      "speakerTag": 1
+    },
+    {
+      "startTime": {
+        "seconds": "24",
+        "nanos": 400000000
+      },
+      "endTime": {
+        "seconds": "24",
+        "nanos": 700000000
+      },
+      "word": "same",
+      "confidence": 0.6585840582847595,
+      "speakerTag": 1
+    },
+    {
+      "startTime": {
+        "seconds": "24",
+        "nanos": 800000000
+      },
+      "endTime": {
+        "seconds": "24",
+        "nanos": 900000000
+      },
+      "word": "and",
+      "confidence": 0.9128385782241821,
+      "speakerTag": 1
+    },
+    {
+      "startTime": {
+        "seconds": "24",
+        "nanos": 900000000
+      },
+      "endTime": {
+        "seconds": "25"
+      },
+      "word": "the",
+      "confidence": 0.7260416150093079,
+      "speakerTag": 1
+    },
+    {
+      "startTime": {
+        "seconds": "25"
+      },
+      "endTime": {
+        "seconds": "25",
+        "nanos": 200000000
+      },
+      "word": "same",
+      "confidence": 0.6810674071311951,
+      "speakerTag": 1
+    },
+    {
+      "startTime": {
+        "seconds": "25",
+        "nanos": 200000000
+      },
+      "endTime": {
+        "seconds": "25",
+        "nanos": 800000000
+      },
+      "word": "Vol,",
+      "confidence": 0.5469473600387573,
+      "speakerTag": 1
+    },
+    {
+      "startTime": {
+        "seconds": "25",
+        "nanos": 800000000
+      },
+      "endTime": {
+        "seconds": "25",
+        "nanos": 900000000
+      },
+      "word": "it",
+      "confidence": 0.6428208351135254,
+      "speakerTag": 1
+    },
+    {
+      "startTime": {
+        "seconds": "25",
+        "nanos": 900000000
+      },
+      "endTime": {
+        "seconds": "26",
+        "nanos": 200000000
+      },
+      "word": "has",
+      "confidence": 0.6947886943817139,
+      "speakerTag": 1
+    },
+    {
+      "startTime": {
+        "seconds": "26",
+        "nanos": 200000000
+      },
+      "endTime": {
+        "seconds": "26",
+        "nanos": 500000000
+      },
+      "word": "two",
+      "confidence": 0.7031295895576477,
+      "speakerTag": 1
+    },
+    {
+      "startTime": {
+        "seconds": "26",
+        "nanos": 500000000
+      },
+      "endTime": {
+        "seconds": "27",
+        "nanos": 200000000
+      },
+      "word": "directions,",
+      "confidence": 0.9128385782241821,
+      "speakerTag": 1
+    },
+    {
+      "startTime": {
+        "seconds": "27",
+        "nanos": 200000000
+      },
+      "endTime": {
+        "seconds": "27",
+        "nanos": 500000000
+      },
+      "word": "but",
+      "confidence": 0.8284139633178711,
+      "speakerTag": 1
+    },
+    {
+      "startTime": {
+        "seconds": "27",
+        "nanos": 900000000
+      },
+      "endTime": {
+        "seconds": "28",
+        "nanos": 100000000
+      },
+      "word": "go",
+      "confidence": 0.9128385782241821,
+      "speakerTag": 1
+    },
+    {
+      "startTime": {
+        "seconds": "28",
+        "nanos": 100000000
+      },
+      "endTime": {
+        "seconds": "28",
+        "nanos": 200000000
+      },
+      "word": "to",
+      "confidence": 0.7174491286277771,
+      "speakerTag": 1
+    },
+    {
+      "startTime": {
+        "seconds": "28",
+        "nanos": 200000000
+      },
+      "endTime": {
+        "seconds": "28",
+        "nanos": 600000000
+      },
+      "word": "Pomona",
+      "confidence": 0.6871907711029053,
+      "speakerTag": 1
+    },
+    {
+      "startTime": {
+        "seconds": "28",
+        "nanos": 600000000
+      },
+      "endTime": {
+        "seconds": "28",
+        "nanos": 900000000
+      },
+      "word": "First,",
+      "confidence": 0.9128385782241821,
+      "speakerTag": 1
+    },
+    {
+      "startTime": {
+        "seconds": "28",
+        "nanos": 900000000
+      },
+      "endTime": {
+        "seconds": "28",
+        "nanos": 900000000
+      },
+      "word": "they're",
+      "confidence": 0.5313218235969543,
+      "speakerTag": 1
+    },
+    {
+      "startTime": {
+        "seconds": "28",
+        "nanos": 900000000
+      },
+      "endTime": {
+        "seconds": "29",
+        "nanos": 100000000
+      },
+      "word": "going",
+      "confidence": 0.6135337948799133,
+      "speakerTag": 1
+    },
+    {
+      "startTime": {
+        "seconds": "29",
+        "nanos": 100000000
+      },
+      "endTime": {
+        "seconds": "29",
+        "nanos": 100000000
+      },
+      "word": "to",
+      "confidence": 0.3492729663848877,
+      "speakerTag": 1
+    },
+    {
+      "startTime": {
+        "seconds": "29",
+        "nanos": 100000000
+      },
+      "endTime": {
+        "seconds": "29",
+        "nanos": 300000000
+      },
+      "word": "load",
+      "confidence": 0.39000943303108215,
+      "speakerTag": 1
+    },
+    {
+      "startTime": {
+        "seconds": "29",
+        "nanos": 300000000
+      },
+      "endTime": {
+        "seconds": "29",
+        "nanos": 500000000
+      },
+      "word": "you",
+      "confidence": 0.6273964047431946,
+      "speakerTag": 1
+    },
+    {
+      "startTime": {
+        "seconds": "29",
+        "nanos": 500000000
+      },
+      "endTime": {
+        "seconds": "29",
+        "nanos": 800000000
+      },
+      "word": "tense",
+      "confidence": 0.5083356499671936,
+      "speakerTag": 1
+    },
+    {
+      "startTime": {
+        "seconds": "29",
+        "nanos": 800000000
+      },
+      "endTime": {
+        "seconds": "31",
+        "nanos": 100000000
+      },
+      "word": "kids",
+      "confidence": 0.3693280518054962,
+      "speakerTag": 1
+    },
+    {
+      "startTime": {
+        "seconds": "31",
+        "nanos": 100000000
+      },
+      "endTime": {
+        "seconds": "31",
+        "nanos": 300000000
+      },
+      "word": "and",
+      "confidence": 0.7642595171928406,
+      "speakerTag": 1
+    },
+    {
+      "startTime": {
+        "seconds": "31",
+        "nanos": 300000000
+      },
+      "endTime": {
+        "seconds": "32",
+        "nanos": 300000000
+      },
+      "word": "then",
+      "confidence": 0.3896912634372711,
+      "speakerTag": 1
+    },
+    {
+      "startTime": {
+        "seconds": "32",
+        "nanos": 400000000
+      },
+      "endTime": {
+        "seconds": "32",
+        "nanos": 500000000
+      },
+      "word": "you",
+      "confidence": 0.7500473856925964,
+      "speakerTag": 1
+    },
+    {
+      "startTime": {
+        "seconds": "32",
+        "nanos": 500000000
+      },
+      "endTime": {
+        "seconds": "32",
+        "nanos": 800000000
+      },
+      "word": "drop",
+      "confidence": 0.8547055721282959,
+      "speakerTag": 1
+    },
+    {
+      "startTime": {
+        "seconds": "32",
+        "nanos": 800000000
+      },
+      "endTime": {
+        "seconds": "33"
+      },
+      "word": "off",
+      "confidence": 0.7235163450241089,
+      "speakerTag": 1
+    },
+    {
+      "startTime": {
+        "seconds": "33"
+      },
+      "endTime": {
+        "seconds": "33",
+        "nanos": 100000000
+      },
+      "word": "in",
+      "confidence": 0.6987206339836121,
+      "speakerTag": 1
+    },
+    {
+      "startTime": {
+        "seconds": "33",
+        "nanos": 100000000
+      },
+      "endTime": {
+        "seconds": "33",
+        "nanos": 500000000
+      },
+      "word": "Fontana.",
+      "confidence": 0.7009717226028442,
+      "speakerTag": 1
+    },
+    {
+      "startTime": {
+        "seconds": "33",
+        "nanos": 500000000
+      },
+      "endTime": {
+        "seconds": "33",
+        "nanos": 800000000
+      },
+      "word": "Everything",
+      "confidence": 0.9128385782241821,
+      "speakerTag": 1
+    },
+    {
+      "startTime": {
+        "seconds": "33",
+        "nanos": 800000000
+      },
+      "endTime": {
+        "seconds": "34"
+      },
+      "word": "off",
+      "confidence": 0.7127790451049805,
+      "speakerTag": 1
+    },
+    {
+      "startTime": {
+        "seconds": "34"
+      },
+      "endTime": {
+        "seconds": "34",
+        "nanos": 300000000
+      },
+      "word": "loan.",
+      "confidence": 0.6418859362602234,
+      "speakerTag": 1
+    },
+    {
+      "startTime": {
+        "seconds": "34",
+        "nanos": 300000000
+      },
+      "endTime": {
+        "seconds": "34",
+        "nanos": 400000000
+      },
+      "word": "Now,",
+      "confidence": 0.9128385782241821,
+      "speakerTag": 1
+    },
+    {
+      "startTime": {
+        "seconds": "34",
+        "nanos": 500000000
+      },
+      "endTime": {
+        "seconds": "34",
+        "nanos": 600000000
+      },
+      "word": "we're",
+      "confidence": 0.9128385782241821,
+      "speakerTag": 1
+    },
+    {
+      "startTime": {
+        "seconds": "34",
+        "nanos": 600000000
+      },
+      "endTime": {
+        "seconds": "34",
+        "nanos": 900000000
+      },
+      "word": "loaded",
+      "confidence": 0.7347438335418701,
+      "speakerTag": 1
+    },
+    {
+      "startTime": {
+        "seconds": "34",
+        "nanos": 900000000
+      },
+      "endTime": {
+        "seconds": "35",
+        "nanos": 300000000
+      },
+      "word": "back,",
+      "confidence": 0.5832771062850952,
+      "speakerTag": 1
+    },
+    {
+      "startTime": {
+        "seconds": "35",
+        "nanos": 300000000
+      },
+      "endTime": {
+        "seconds": "35",
+        "nanos": 500000000
+      },
+      "word": "we'll",
+      "confidence": 0.9128385782241821,
+      "speakerTag": 1
+    },
+    {
+      "startTime": {
+        "seconds": "35",
+        "nanos": 500000000
+      },
+      "endTime": {
+        "seconds": "35",
+        "nanos": 600000000
+      },
+      "word": "go",
+      "confidence": 0.6963680386543274,
+      "speakerTag": 1
+    },
+    {
+      "startTime": {
+        "seconds": "35",
+        "nanos": 600000000
+      },
+      "endTime": {
+        "seconds": "35",
+        "nanos": 800000000
+      },
+      "word": "back",
+      "confidence": 0.7361436486244202,
+      "speakerTag": 1
+    },
+    {
+      "startTime": {
+        "seconds": "35",
+        "nanos": 800000000
+      },
+      "endTime": {
+        "seconds": "35",
+        "nanos": 900000000
+      },
+      "word": "to",
+      "confidence": 0.9128385782241821,
+      "speakerTag": 1
+    },
+    {
+      "startTime": {
+        "seconds": "35",
+        "nanos": 900000000
+      },
+      "endTime": {
+        "seconds": "36",
+        "nanos": 300000000
+      },
+      "word": "the",
+      "confidence": 0.36024317145347595,
+      "speakerTag": 1
+    },
+    {
+      "startTime": {
+        "seconds": "36",
+        "nanos": 400000000
+      },
+      "endTime": {
+        "seconds": "36",
+        "nanos": 800000000
+      },
+      "word": "Ontario",
+      "confidence": 0.6454090476036072,
+      "speakerTag": 1
+    },
+    {
+      "startTime": {
+        "seconds": "36",
+        "nanos": 800000000
+      },
+      "endTime": {
+        "seconds": "37"
+      },
+      "word": "one",
+      "confidence": 0.9128385782241821,
+      "speakerTag": 1
+    },
+    {
+      "startTime": {
+        "seconds": "37"
+      },
+      "endTime": {
+        "seconds": "37"
+      },
+      "word": "and",
+      "confidence": 0.6454090476036072,
+      "speakerTag": 1
+    },
+    {
+      "startTime": {
+        "seconds": "37"
+      },
+      "endTime": {
+        "seconds": "37",
+        "nanos": 200000000
+      },
+      "word": "load",
+      "confidence": 0.6454090476036072,
+      "speakerTag": 1
+    },
+    {
+      "startTime": {
+        "seconds": "37",
+        "nanos": 200000000
+      },
+      "endTime": {
+        "seconds": "37",
+        "nanos": 600000000
+      },
+      "word": "again.",
+      "confidence": 0.7226372957229614,
+      "speakerTag": 2
+    },
+    {
+      "startTime": {
+        "seconds": "38",
+        "nanos": 100000000
+      },
+      "endTime": {
+        "seconds": "41",
+        "nanos": 900000000
+      },
+      "word": "Could",
+      "confidence": 0.9128385782241821,
+      "speakerTag": 2
+    },
+    {
+      "startTime": {
+        "seconds": "41",
+        "nanos": 900000000
+      },
+      "endTime": {
+        "seconds": "42"
+      },
+      "word": "you",
+      "confidence": 0.9128385782241821,
+      "speakerTag": 2
+    },
+    {
+      "startTime": {
+        "seconds": "42"
+      },
+      "endTime": {
+        "seconds": "42",
+        "nanos": 200000000
+      },
+      "word": "repeat",
+      "confidence": 0.9128385782241821,
+      "speakerTag": 2
+    },
+    {
+      "startTime": {
+        "seconds": "42",
+        "nanos": 200000000
+      },
+      "endTime": {
+        "seconds": "42",
+        "nanos": 300000000
+      },
+      "word": "please?",
+      "confidence": 0.9128385782241821,
+      "speakerTag": 2
+    },
+    {
+      "startTime": {
+        "seconds": "42",
+        "nanos": 300000000
+      },
+      "endTime": {
+        "seconds": "42",
+        "nanos": 800000000
+      },
+      "word": "I'm",
+      "confidence": 0.9128385782241821,
+      "speakerTag": 2
+    },
+    {
+      "startTime": {
+        "seconds": "42",
+        "nanos": 800000000
+      },
+      "endTime": {
+        "seconds": "43"
+      },
+      "word": "sorry.",
+      "confidence": 0.9128385782241821,
+      "speakerTag": 2
+    },
+    {
+      "startTime": {
+        "seconds": "43"
+      },
+      "endTime": {
+        "seconds": "43",
+        "nanos": 900000000
+      },
+      "word": "English",
+      "confidence": 0.9128385782241821,
+      "speakerTag": 2
+    },
+    {
+      "startTime": {
+        "seconds": "43",
+        "nanos": 900000000
+      },
+      "endTime": {
+        "seconds": "44",
+        "nanos": 200000000
+      },
+      "word": "is",
+      "confidence": 0.9128385782241821,
+      "speakerTag": 2
+    },
+    {
+      "startTime": {
+        "seconds": "44",
+        "nanos": 200000000
+      },
+      "endTime": {
+        "seconds": "44",
+        "nanos": 300000000
+      },
+      "word": "my",
+      "confidence": 0.9128385782241821,
+      "speakerTag": 2
+    },
+    {
+      "startTime": {
+        "seconds": "44",
+        "nanos": 300000000
+      },
+      "endTime": {
+        "seconds": "44",
+        "nanos": 600000000
+      },
+      "word": "second",
+      "confidence": 0.9128385782241821,
+      "speakerTag": 2
+    },
+    {
+      "startTime": {
+        "seconds": "44",
+        "nanos": 600000000
+      },
+      "endTime": {
+        "seconds": "44",
+        "nanos": 800000000
+      },
+      "word": "language.",
+      "confidence": 0.9128385782241821,
+      "speakerTag": 2
+    },
+    {
+      "startTime": {
+        "seconds": "44",
+        "nanos": 800000000
+      },
+      "endTime": {
+        "seconds": "45",
+        "nanos": 900000000
+      },
+      "word": "I",
+      "confidence": 0.9128385782241821,
+      "speakerTag": 2
+    },
+    {
+      "startTime": {
+        "seconds": "45",
+        "nanos": 900000000
+      },
+      "endTime": {
+        "seconds": "46",
+        "nanos": 300000000
+      },
+      "word": "need",
+      "confidence": 0.9128385782241821,
+      "speakerTag": 2
+    },
+    {
+      "startTime": {
+        "seconds": "46",
+        "nanos": 300000000
+      },
+      "endTime": {
+        "seconds": "46",
+        "nanos": 700000000
+      },
+      "word": "to",
+      "confidence": 0.9128385782241821,
+      "speakerTag": 2
+    },
+    {
+      "startTime": {
+        "seconds": "46",
+        "nanos": 700000000
+      },
+      "endTime": {
+        "seconds": "49",
+        "nanos": 600000000
+      },
+      "word": "go",
+      "confidence": 0.9128385782241821,
+      "speakerTag": 2
+    },
+    {
+      "startTime": {
+        "seconds": "49",
+        "nanos": 600000000
+      },
+      "endTime": {
+        "seconds": "49",
+        "nanos": 800000000
+      },
+      "word": "back",
+      "confidence": 0.9128385782241821,
+      "speakerTag": 2
+    },
+    {
+      "startTime": {
+        "seconds": "49",
+        "nanos": 800000000
+      },
+      "endTime": {
+        "seconds": "50",
+        "nanos": 400000000
+      },
+      "word": "to",
+      "confidence": 0.9128385782241821,
+      "speakerTag": 2
+    },
+    {
+      "startTime": {
+        "seconds": "50",
+        "nanos": 400000000
+      },
+      "endTime": {
+        "seconds": "50",
+        "nanos": 900000000
+      },
+      "word": "Pomona.",
+      "confidence": 0.9128385782241821,
+      "speakerTag": 2
+    },
+    {
+      "startTime": {
+        "seconds": "50",
+        "nanos": 900000000
+      },
+      "endTime": {
+        "seconds": "51",
+        "nanos": 900000000
+      },
+      "word": "Correct,",
+      "confidence": 0.9128385782241821,
+      "speakerTag": 2
+    },
+    {
+      "startTime": {
+        "seconds": "51",
+        "nanos": 900000000
+      },
+      "endTime": {
+        "seconds": "52",
+        "nanos": 700000000
+      },
+      "word": "pick",
+      "confidence": 0.9128385782241821,
+      "speakerTag": 2
+    },
+    {
+      "startTime": {
+        "seconds": "52",
+        "nanos": 700000000
+      },
+      "endTime": {
+        "seconds": "52",
+        "nanos": 900000000
+      },
+      "word": "up",
+      "confidence": 0.9128385782241821,
+      "speakerTag": 2
+    },
+    {
+      "startTime": {
+        "seconds": "52",
+        "nanos": 900000000
+      },
+      "endTime": {
+        "seconds": "54",
+        "nanos": 100000000
+      },
+      "word": "some",
+      "confidence": 0.9128385782241821,
+      "speakerTag": 2
+    },
+    {
+      "startTime": {
+        "seconds": "54",
+        "nanos": 100000000
+      },
+      "endTime": {
+        "seconds": "54",
+        "nanos": 500000000
+      },
+      "word": "Lord",
+      "confidence": 0.9128385782241821,
+      "speakerTag": 2
+    },
+    {
+      "startTime": {
+        "seconds": "54",
+        "nanos": 500000000
+      },
+      "endTime": {
+        "seconds": "55",
+        "nanos": 300000000
+      },
+      "word": "and",
+      "confidence": 0.9128385782241821,
+      "speakerTag": 2
+    },
+    {
+      "startTime": {
+        "seconds": "55",
+        "nanos": 300000000
+      },
+      "endTime": {
+        "seconds": "55",
+        "nanos": 500000000
+      },
+      "word": "we",
+      "confidence": 0.9128385782241821,
+      "speakerTag": 2
+    },
+    {
+      "startTime": {
+        "seconds": "55",
+        "nanos": 500000000
+      },
+      "endTime": {
+        "seconds": "55",
+        "nanos": 700000000
+      },
+      "word": "have",
+      "confidence": 0.9128385782241821,
+      "speakerTag": 2
+    },
+    {
+      "startTime": {
+        "seconds": "55",
+        "nanos": 700000000
+      },
+      "endTime": {
+        "seconds": "56",
+        "nanos": 800000000
+      },
+      "word": "loads",
+      "confidence": 0.9128385782241821,
+      "speakerTag": 2
+    },
+    {
+      "startTime": {
+        "seconds": "56",
+        "nanos": 800000000
+      },
+      "endTime": {
+        "seconds": "58"
+      },
+      "word": "proceeded",
+      "confidence": 0.5505024790763855,
+      "speakerTag": 2
+    },
+    {
+      "startTime": {
+        "seconds": "58"
+      },
+      "endTime": {
+        "seconds": "58",
+        "nanos": 300000000
+      },
+      "word": "to",
+      "confidence": 0.7454071640968323,
+      "speakerTag": 2
+    },
+    {
+      "startTime": {
+        "seconds": "58",
+        "nanos": 300000000
+      },
+      "endTime": {
+        "seconds": "59",
+        "nanos": 700000000
+      },
+      "word": "Fontana,",
+      "confidence": 0.9115612506866455,
+      "speakerTag": 2
+    },
+    {
+      "startTime": {
+        "seconds": "59",
+        "nanos": 700000000
+      },
+      "endTime": {
+        "seconds": "60",
+        "nanos": 900000000
+      },
+      "word": "correct.",
+      "confidence": 0.9128385782241821,
+      "speakerTag": 1
+    },
+    {
+      "startTime": {
+        "seconds": "60",
+        "nanos": 900000000
+      },
+      "endTime": {
+        "seconds": "61",
+        "nanos": 200000000
+      },
+      "word": "And",
+      "confidence": 0.9128385782241821,
+      "speakerTag": 1
+    },
+    {
+      "startTime": {
+        "seconds": "61",
+        "nanos": 200000000
+      },
+      "endTime": {
+        "seconds": "61",
+        "nanos": 400000000
+      },
+      "word": "then",
+      "confidence": 0.9128385782241821,
+      "speakerTag": 1
+    },
+    {
+      "startTime": {
+        "seconds": "61",
+        "nanos": 400000000
+      },
+      "endTime": {
+        "seconds": "61",
+        "nanos": 700000000
+      },
+      "word": "after",
+      "confidence": 0.9128385782241821,
+      "speakerTag": 1
+    },
+    {
+      "startTime": {
+        "seconds": "61",
+        "nanos": 700000000
+      },
+      "endTime": {
+        "seconds": "61",
+        "nanos": 800000000
+      },
+      "word": "you",
+      "confidence": 0.9128385782241821,
+      "speakerTag": 1
+    },
+    {
+      "startTime": {
+        "seconds": "61",
+        "nanos": 800000000
+      },
+      "endTime": {
+        "seconds": "62",
+        "nanos": 200000000
+      },
+      "word": "offload,",
+      "confidence": 0.9128385782241821,
+      "speakerTag": 1
+    },
+    {
+      "startTime": {
+        "seconds": "62",
+        "nanos": 200000000
+      },
+      "endTime": {
+        "seconds": "62",
+        "nanos": 700000000
+      },
+      "word": "you'll",
+      "confidence": 0.7320505380630493,
+      "speakerTag": 1
+    },
+    {
+      "startTime": {
+        "seconds": "62",
+        "nanos": 700000000
+      },
+      "endTime": {
+        "seconds": "62",
+        "nanos": 800000000
+      },
+      "word": "go",
+      "confidence": 0.9128385782241821,
+      "speakerTag": 1
+    },
+    {
+      "startTime": {
+        "seconds": "62",
+        "nanos": 800000000
+      },
+      "endTime": {
+        "seconds": "63",
+        "nanos": 100000000
+      },
+      "word": "back",
+      "confidence": 0.9128385782241821,
+      "speakerTag": 1
+    },
+    {
+      "startTime": {
+        "seconds": "63",
+        "nanos": 100000000
+      },
+      "endTime": {
+        "seconds": "63",
+        "nanos": 200000000
+      },
+      "word": "to",
+      "confidence": 0.9128385782241821,
+      "speakerTag": 1
+    },
+    {
+      "startTime": {
+        "seconds": "63",
+        "nanos": 200000000
+      },
+      "endTime": {
+        "seconds": "63",
+        "nanos": 600000000
+      },
+      "word": "Ontario",
+      "confidence": 0.9128385782241821,
+      "speakerTag": 1
+    },
+    {
+      "startTime": {
+        "seconds": "63",
+        "nanos": 600000000
+      },
+      "endTime": {
+        "seconds": "64",
+        "nanos": 100000000
+      },
+      "word": "and",
+      "confidence": 0.9128385782241821,
+      "speakerTag": 1
+    },
+    {
+      "startTime": {
+        "seconds": "64",
+        "nanos": 100000000
+      },
+      "endTime": {
+        "seconds": "64",
+        "nanos": 400000000
+      },
+      "word": "pick",
+      "confidence": 0.9128385782241821,
+      "speakerTag": 1
+    },
+    {
+      "startTime": {
+        "seconds": "64",
+        "nanos": 400000000
+      },
+      "endTime": {
+        "seconds": "64",
+        "nanos": 600000000
+      },
+      "word": "up",
+      "confidence": 0.9128385782241821,
+      "speakerTag": 1
+    },
+    {
+      "startTime": {
+        "seconds": "64",
+        "nanos": 600000000
+      },
+      "endTime": {
+        "seconds": "64",
+        "nanos": 700000000
+      },
+      "word": "the",
+      "confidence": 0.9128385782241821,
+      "speakerTag": 1
+    },
+    {
+      "startTime": {
+        "seconds": "64",
+        "nanos": 700000000
+      },
+      "endTime": {
+        "seconds": "64",
+        "nanos": 800000000
+      },
+      "word": "other",
+      "confidence": 0.9128385782241821,
+      "speakerTag": 1
+    },
+    {
+      "startTime": {
+        "seconds": "64",
+        "nanos": 800000000
+      },
+      "endTime": {
+        "seconds": "65",
+        "nanos": 400000000
+      },
+      "word": "16",
+      "confidence": 0.9128385782241821,
+      "speakerTag": 1
+    },
+    {
+      "startTime": {
+        "seconds": "65",
+        "nanos": 400000000
+      },
+      "endTime": {
+        "seconds": "65",
+        "nanos": 600000000
+      },
+      "word": "pallets.",
+      "confidence": 0.9128385782241821,
+      "speakerTag": 1
+    },
+    {
+      "startTime": {
+        "seconds": "65",
+        "nanos": 600000000
+      },
+      "endTime": {
+        "seconds": "67",
+        "nanos": 700000000
+      },
+      "word": "You've",
+      "confidence": 0.9128385782241821,
+      "speakerTag": 2
+    },
+    {
+      "startTime": {
+        "seconds": "67",
+        "nanos": 700000000
+      },
+      "endTime": {
+        "seconds": "67",
+        "nanos": 900000000
+      },
+      "word": "told",
+      "confidence": 0.9128385782241821,
+      "speakerTag": 2
+    },
+    {
+      "startTime": {
+        "seconds": "67",
+        "nanos": 900000000
+      },
+      "endTime": {
+        "seconds": "68",
+        "nanos": 200000000
+      },
+      "word": "me",
+      "confidence": 0.9128385782241821,
+      "speakerTag": 2
+    },
+    {
+      "startTime": {
+        "seconds": "68",
+        "nanos": 200000000
+      },
+      "endTime": {
+        "seconds": "69"
+      },
+      "word": "she",
+      "confidence": 0.9128385782241821,
+      "speakerTag": 2
+    },
+    {
+      "startTime": {
+        "seconds": "69"
+      },
+      "endTime": {
+        "seconds": "69",
+        "nanos": 200000000
+      },
+      "word": "knows",
+      "confidence": 0.4956086575984955,
+      "speakerTag": 2
+    },
+    {
+      "startTime": {
+        "seconds": "69",
+        "nanos": 200000000
+      },
+      "endTime": {
+        "seconds": "70",
+        "nanos": 100000000
+      },
+      "word": "not",
+      "confidence": 0.6911118030548096,
+      "speakerTag": 2
+    },
+    {
+      "startTime": {
+        "seconds": "70",
+        "nanos": 100000000
+      },
+      "endTime": {
+        "seconds": "70",
+        "nanos": 800000000
+      },
+      "word": "Ontario",
+      "confidence": 0.9128385782241821,
+      "speakerTag": 2
+    },
+    {
+      "startTime": {
+        "seconds": "70",
+        "nanos": 800000000
+      },
+      "endTime": {
+        "seconds": "71",
+        "nanos": 800000000
+      },
+      "word": "that",
+      "confidence": 0.9128385782241821,
+      "speakerTag": 2
+    },
+    {
+      "startTime": {
+        "seconds": "71",
+        "nanos": 800000000
+      },
+      "endTime": {
+        "seconds": "71",
+        "nanos": 900000000
+      },
+      "word": "are",
+      "confidence": 0.8918371200561523,
+      "speakerTag": 2
+    },
+    {
+      "startTime": {
+        "seconds": "71",
+        "nanos": 900000000
+      },
+      "endTime": {
+        "seconds": "72",
+        "nanos": 100000000
+      },
+      "word": "the",
+      "confidence": 0.9122197031974792,
+      "speakerTag": 2
+    },
+    {
+      "startTime": {
+        "seconds": "72",
+        "nanos": 100000000
+      },
+      "endTime": {
+        "seconds": "72",
+        "nanos": 300000000
+      },
+      "word": "right",
+      "confidence": 0.9128385782241821,
+      "speakerTag": 2
+    },
+    {
+      "startTime": {
+        "seconds": "72",
+        "nanos": 300000000
+      },
+      "endTime": {
+        "seconds": "72",
+        "nanos": 500000000
+      },
+      "word": "next",
+      "confidence": 0.9128385782241821,
+      "speakerTag": 2
+    },
+    {
+      "startTime": {
+        "seconds": "72",
+        "nanos": 500000000
+      },
+      "endTime": {
+        "seconds": "72",
+        "nanos": 500000000
+      },
+      "word": "to",
+      "confidence": 0.9128385782241821,
+      "speakerTag": 2
+    },
+    {
+      "startTime": {
+        "seconds": "72",
+        "nanos": 500000000
+      },
+      "endTime": {
+        "seconds": "72",
+        "nanos": 700000000
+      },
+      "word": "each",
+      "confidence": 0.9128385782241821,
+      "speakerTag": 2
+    },
+    {
+      "startTime": {
+        "seconds": "72",
+        "nanos": 700000000
+      },
+      "endTime": {
+        "seconds": "72",
+        "nanos": 800000000
+      },
+      "word": "other.",
+      "confidence": 0.9128385782241821,
+      "speakerTag": 2
+    },
+    {
+      "startTime": {
+        "seconds": "72",
+        "nanos": 800000000
+      },
+      "endTime": {
+        "seconds": "73",
+        "nanos": 300000000
+      },
+      "word": "That",
+      "confidence": 0.375,
+      "speakerTag": 2
+    },
+    {
+      "startTime": {
+        "seconds": "73",
+        "nanos": 300000000
+      },
+      "endTime": {
+        "seconds": "73",
+        "nanos": 500000000
+      },
+      "word": "their",
+      "confidence": 0.3499201834201813,
+      "speakerTag": 2
+    },
+    {
+      "startTime": {
+        "seconds": "73",
+        "nanos": 500000000
+      },
+      "endTime": {
+        "seconds": "74"
+      },
+      "word": "life",
+      "confidence": 0.3499201834201813,
+      "speakerTag": 2
+    },
+    {
+      "startTime": {
+        "seconds": "74"
+      },
+      "endTime": {
+        "seconds": "74",
+        "nanos": 100000000
+      },
+      "word": "is",
+      "confidence": 0.3657696843147278,
+      "speakerTag": 2
+    },
+    {
+      "startTime": {
+        "seconds": "74",
+        "nanos": 100000000
+      },
+      "endTime": {
+        "seconds": "74",
+        "nanos": 400000000
+      },
+      "word": "empty",
+      "confidence": 0.3682889938354492,
+      "speakerTag": 2
+    },
+    {
+      "startTime": {
+        "seconds": "74",
+        "nanos": 400000000
+      },
+      "endTime": {
+        "seconds": "75",
+        "nanos": 200000000
+      },
+      "word": "the",
+      "confidence": 0.5348057746887207,
+      "speakerTag": 2
+    },
+    {
+      "startTime": {
+        "seconds": "75",
+        "nanos": 200000000
+      },
+      "endTime": {
+        "seconds": "75",
+        "nanos": 300000000
+      },
+      "word": "right",
+      "confidence": 0.9128385782241821,
+      "speakerTag": 2
+    },
+    {
+      "startTime": {
+        "seconds": "75",
+        "nanos": 300000000
+      },
+      "endTime": {
+        "seconds": "75",
+        "nanos": 500000000
+      },
+      "word": "next",
+      "confidence": 0.9128385782241821,
+      "speakerTag": 2
+    },
+    {
+      "startTime": {
+        "seconds": "75",
+        "nanos": 500000000
+      },
+      "endTime": {
+        "seconds": "75",
+        "nanos": 600000000
+      },
+      "word": "to",
+      "confidence": 0.9128385782241821,
+      "speakerTag": 2
+    },
+    {
+      "startTime": {
+        "seconds": "75",
+        "nanos": 600000000
+      },
+      "endTime": {
+        "seconds": "75",
+        "nanos": 700000000
+      },
+      "word": "each",
+      "confidence": 0.9128385782241821,
+      "speakerTag": 2
+    },
+    {
+      "startTime": {
+        "seconds": "75",
+        "nanos": 700000000
+      },
+      "endTime": {
+        "seconds": "75",
+        "nanos": 800000000
+      },
+      "word": "other.",
+      "confidence": 0.9128385782241821,
+      "speakerTag": 2
+    },
+    {
+      "startTime": {
+        "seconds": "75",
+        "nanos": 800000000
+      },
+      "endTime": {
+        "seconds": "77",
+        "nanos": 200000000
+      },
+      "word": "Okay,",
+      "confidence": 0.9128385782241821,
+      "speakerTag": 2
+    },
+    {
+      "startTime": {
+        "seconds": "77",
+        "nanos": 200000000
+      },
+      "endTime": {
+        "seconds": "77",
+        "nanos": 800000000
+      },
+      "word": "okay.",
+      "confidence": 0.9128385782241821,
+      "speakerTag": 2
+    },
+    {
+      "startTime": {
+        "seconds": "77",
+        "nanos": 800000000
+      },
+      "endTime": {
+        "seconds": "78",
+        "nanos": 100000000
+      },
+      "word": "Okay.",
+      "confidence": 0.9128385782241821,
+      "speakerTag": 2
+    },
+    {
+      "startTime": {
+        "seconds": "78",
+        "nanos": 100000000
+      },
+      "endTime": {
+        "seconds": "78",
+        "nanos": 500000000
+      },
+      "word": "I",
+      "confidence": 0.9128385782241821,
+      "speakerTag": 2
+    },
+    {
+      "startTime": {
+        "seconds": "78",
+        "nanos": 500000000
+      },
+      "endTime": {
+        "seconds": "78",
+        "nanos": 900000000
+      },
+      "word": "see",
+      "confidence": 0.9128385782241821,
+      "speakerTag": 2
+    },
+    {
+      "startTime": {
+        "seconds": "78",
+        "nanos": 900000000
+      },
+      "endTime": {
+        "seconds": "81",
+        "nanos": 400000000
+      },
+      "word": "I",
+      "confidence": 0.9128385782241821,
+      "speakerTag": 2
+    },
+    {
+      "startTime": {
+        "seconds": "81",
+        "nanos": 400000000
+      },
+      "endTime": {
+        "seconds": "81",
+        "nanos": 800000000
+      },
+      "word": "see",
+      "confidence": 0.9128385782241821,
+      "speakerTag": 2
+    },
+    {
+      "startTime": {
+        "seconds": "81",
+        "nanos": 800000000
+      },
+      "endTime": {
+        "seconds": "83",
+        "nanos": 500000000
+      },
+      "word": "2001",
+      "confidence": 0.9128385782241821,
+      "speakerTag": 2
+    },
+    {
+      "startTime": {
+        "seconds": "83",
+        "nanos": 800000000
+      },
+      "endTime": {
+        "seconds": "84",
+        "nanos": 200000000
+      },
+      "word": "West",
+      "confidence": 0.9128385782241821,
+      "speakerTag": 2
+    },
+    {
+      "startTime": {
+        "seconds": "84",
+        "nanos": 200000000
+      },
+      "endTime": {
+        "seconds": "84",
+        "nanos": 700000000
+      },
+      "word": "Mission",
+      "confidence": 0.9128385782241821,
+      "speakerTag": 2
+    },
+    {
+      "startTime": {
+        "seconds": "84",
+        "nanos": 700000000
+      },
+      "endTime": {
+        "seconds": "85",
+        "nanos": 800000000
+      },
+      "word": "Boulevard,",
+      "confidence": 0.9128385782241821,
+      "speakerTag": 2
+    },
+    {
+      "startTime": {
+        "seconds": "85",
+        "nanos": 800000000
+      },
+      "endTime": {
+        "seconds": "86",
+        "nanos": 700000000
+      },
+      "word": "Pomona",
+      "confidence": 0.9128385782241821,
+      "speakerTag": 2
+    },
+    {
+      "startTime": {
+        "seconds": "86",
+        "nanos": 700000000
+      },
+      "endTime": {
+        "seconds": "88",
+        "nanos": 500000000
+      },
+      "word": "correct",
+      "confidence": 0.9128385782241821,
+      "speakerTag": 2
+    },
+    {
+      "startTime": {
+        "seconds": "88",
+        "nanos": 500000000
+      },
+      "endTime": {
+        "seconds": "91",
+        "nanos": 100000000
+      },
+      "word": "91-76.",
+      "confidence": 0.9128385782241821,
+      "speakerTag": 2
+    },
+    {
+      "startTime": {
+        "seconds": "91",
+        "nanos": 100000000
+      },
+      "endTime": {
+        "seconds": "92",
+        "nanos": 300000000
+      },
+      "word": "Okay.",
+      "confidence": 0.9128385782241821,
+      "speakerTag": 2
+    },
+    {
+      "startTime": {
+        "seconds": "92",
+        "nanos": 300000000
+      },
+      "endTime": {
+        "seconds": "93",
+        "nanos": 100000000
+      },
+      "word": "Okay.",
+      "confidence": 0.7212579846382141,
+      "speakerTag": 2
+    },
+    {
+      "startTime": {
+        "seconds": "93",
+        "nanos": 100000000
+      },
+      "endTime": {
+        "seconds": "93",
+        "nanos": 800000000
+      },
+      "word": "Pick",
+      "confidence": 0.6608460545539856,
+      "speakerTag": 2
+    },
+    {
+      "startTime": {
+        "seconds": "93",
+        "nanos": 800000000
+      },
+      "endTime": {
+        "seconds": "94"
+      },
+      "word": "up.",
+      "confidence": 0.6608459949493408,
+      "speakerTag": 2
+    },
+    {
+      "startTime": {
+        "seconds": "96",
+        "nanos": 600000000
+      },
+      "endTime": {
+        "seconds": "97",
+        "nanos": 800000000
+      },
+      "word": "Gfl,",
+      "confidence": 0.8704937100410461,
+      "speakerTag": 2
+    },
+    {
+      "startTime": {
+        "seconds": "97",
+        "nanos": 800000000
+      },
+      "endTime": {
+        "seconds": "98",
+        "nanos": 900000000
+      },
+      "word": "C11",
+      "confidence": 0.7081020474433899,
+      "speakerTag": 2
+    },
+    {
+      "startTime": {
+        "seconds": "98",
+        "nanos": 900000000
+      },
+      "endTime": {
+        "seconds": "99",
+        "nanos": 200000000
+      },
+      "word": "got",
+      "confidence": 0.9128385782241821,
+      "speakerTag": 2
+    },
+    {
+      "startTime": {
+        "seconds": "99",
+        "nanos": 200000000
+      },
+      "endTime": {
+        "seconds": "99",
+        "nanos": 500000000
+      },
+      "word": "this",
+      "confidence": 0.7584368586540222,
+      "speakerTag": 2
+    },
+    {
+      "startTime": {
+        "seconds": "99",
+        "nanos": 500000000
+      },
+      "endTime": {
+        "seconds": "99",
+        "nanos": 900000000
+      },
+      "word": "guy",
+      "confidence": 0.8645350933074951,
+      "speakerTag": 2
+    },
+    {
+      "startTime": {
+        "seconds": "100",
+        "nanos": 200000000
+      },
+      "endTime": {
+        "seconds": "100",
+        "nanos": 400000000
+      },
+      "word": "and",
+      "confidence": 0.7279088497161865,
+      "speakerTag": 1
+    },
+    {
+      "startTime": {
+        "seconds": "100",
+        "nanos": 400000000
+      },
+      "endTime": {
+        "seconds": "100",
+        "nanos": 700000000
+      },
+      "word": "it's,",
+      "confidence": 0.9128385782241821,
+      "speakerTag": 1
+    },
+    {
+      "startTime": {
+        "seconds": "100",
+        "nanos": 700000000
+      },
+      "endTime": {
+        "seconds": "101"
+      },
+      "word": "it's",
+      "confidence": 0.7164788246154785,
+      "speakerTag": 1
+    },
+    {
+      "startTime": {
+        "seconds": "101"
+      },
+      "endTime": {
+        "seconds": "101",
+        "nanos": 200000000
+      },
+      "word": "two",
+      "confidence": 0.6117591261863708,
+      "speakerTag": 1
+    },
+    {
+      "startTime": {
+        "seconds": "101",
+        "nanos": 200000000
+      },
+      "endTime": {
+        "seconds": "101",
+        "nanos": 600000000
+      },
+      "word": "stopped",
+      "confidence": 0.9128385782241821,
+      "speakerTag": 1
+    },
+    {
+      "startTime": {
+        "seconds": "101",
+        "nanos": 600000000
+      },
+      "endTime": {
+        "seconds": "101",
+        "nanos": 700000000
+      },
+      "word": "in",
+      "confidence": 0.9128385782241821,
+      "speakerTag": 1
+    },
+    {
+      "startTime": {
+        "seconds": "101",
+        "nanos": 700000000
+      },
+      "endTime": {
+        "seconds": "101",
+        "nanos": 900000000
+      },
+      "word": "that",
+      "confidence": 0.7024257779121399,
+      "speakerTag": 1
+    },
+    {
+      "startTime": {
+        "seconds": "101",
+        "nanos": 900000000
+      },
+      "endTime": {
+        "seconds": "102",
+        "nanos": 100000000
+      },
+      "word": "same",
+      "confidence": 0.9128385782241821,
+      "speakerTag": 1
+    },
+    {
+      "startTime": {
+        "seconds": "102",
+        "nanos": 100000000
+      },
+      "endTime": {
+        "seconds": "102",
+        "nanos": 600000000
+      },
+      "word": "Vol.",
+      "confidence": 0.5339372158050537,
+      "speakerTag": 1
+    },
+    {
+      "startTime": {
+        "seconds": "102",
+        "nanos": 600000000
+      },
+      "endTime": {
+        "seconds": "102",
+        "nanos": 800000000
+      },
+      "word": "So",
+      "confidence": 0.9128385782241821,
+      "speakerTag": 1
+    },
+    {
+      "startTime": {
+        "seconds": "102",
+        "nanos": 800000000
+      },
+      "endTime": {
+        "seconds": "103",
+        "nanos": 300000000
+      },
+      "word": "it's",
+      "confidence": 0.7461704015731812,
+      "speakerTag": 1
+    },
+    {
+      "startTime": {
+        "seconds": "103",
+        "nanos": 300000000
+      },
+      "endTime": {
+        "seconds": "103",
+        "nanos": 400000000
+      },
+      "word": "the",
+      "confidence": 0.9128385782241821,
+      "speakerTag": 1
+    },
+    {
+      "startTime": {
+        "seconds": "103",
+        "nanos": 400000000
+      },
+      "endTime": {
+        "seconds": "103",
+        "nanos": 700000000
+      },
+      "word": "same",
+      "confidence": 0.6408790946006775,
+      "speakerTag": 1
+    },
+    {
+      "startTime": {
+        "seconds": "103",
+        "nanos": 700000000
+      },
+      "endTime": {
+        "seconds": "103",
+        "nanos": 900000000
+      },
+      "word": "order",
+      "confidence": 0.9128385782241821,
+      "speakerTag": 1
+    },
+    {
+      "startTime": {
+        "seconds": "103",
+        "nanos": 900000000
+      },
+      "endTime": {
+        "seconds": "104",
+        "nanos": 100000000
+      },
+      "word": "for",
+      "confidence": 0.9128385782241821,
+      "speakerTag": 1
+    },
+    {
+      "startTime": {
+        "seconds": "104",
+        "nanos": 100000000
+      },
+      "endTime": {
+        "seconds": "104",
+        "nanos": 200000000
+      },
+      "word": "the",
+      "confidence": 0.9128385782241821,
+      "speakerTag": 1
+    },
+    {
+      "startTime": {
+        "seconds": "104",
+        "nanos": 200000000
+      },
+      "endTime": {
+        "seconds": "104",
+        "nanos": 400000000
+      },
+      "word": "other",
+      "confidence": 0.9128385782241821,
+      "speakerTag": 1
+    },
+    {
+      "startTime": {
+        "seconds": "104",
+        "nanos": 400000000
+      },
+      "endTime": {
+        "seconds": "104",
+        "nanos": 600000000
+      },
+      "word": "ones",
+      "confidence": 0.727620005607605,
+      "speakerTag": 1
+    },
+    {
+      "startTime": {
+        "seconds": "104",
+        "nanos": 600000000
+      },
+      "endTime": {
+        "seconds": "104",
+        "nanos": 800000000
+      },
+      "word": "as",
+      "confidence": 0.7219836711883545,
+      "speakerTag": 1
+    },
+    {
+      "startTime": {
+        "seconds": "104",
+        "nanos": 800000000
+      },
+      "endTime": {
+        "seconds": "105",
+        "nanos": 100000000
+      },
+      "word": "well.",
+      "confidence": 0.44436681270599365,
+      "speakerTag": 1
+    },
+    {
+      "startTime": {
+        "seconds": "105",
+        "nanos": 100000000
+      },
+      "endTime": {
+        "seconds": "105",
+        "nanos": 400000000
+      },
+      "word": "So",
+      "confidence": 0.7096244096755981,
+      "speakerTag": 1
+    },
+    {
+      "startTime": {
+        "seconds": "105",
+        "nanos": 400000000
+      },
+      "endTime": {
+        "seconds": "105",
+        "nanos": 500000000
+      },
+      "word": "we're",
+      "confidence": 0.9128385782241821,
+      "speakerTag": 1
+    },
+    {
+      "startTime": {
+        "seconds": "105",
+        "nanos": 500000000
+      },
+      "endTime": {
+        "seconds": "105",
+        "nanos": 600000000
+      },
+      "word": "not",
+      "confidence": 0.6792519092559814,
+      "speakerTag": 1
+    },
+    {
+      "startTime": {
+        "seconds": "105",
+        "nanos": 600000000
+      },
+      "endTime": {
+        "seconds": "105",
+        "nanos": 700000000
+      },
+      "word": "going",
+      "confidence": 0.7096244096755981,
+      "speakerTag": 1
+    },
+    {
+      "startTime": {
+        "seconds": "105",
+        "nanos": 700000000
+      },
+      "endTime": {
+        "seconds": "105",
+        "nanos": 800000000
+      },
+      "word": "to",
+      "confidence": 0.5845690369606018,
+      "speakerTag": 1
+    },
+    {
+      "startTime": {
+        "seconds": "105",
+        "nanos": 800000000
+      },
+      "endTime": {
+        "seconds": "106"
+      },
+      "word": "change",
+      "confidence": 0.7392693758010864,
+      "speakerTag": 1
+    },
+    {
+      "startTime": {
+        "seconds": "106"
+      },
+      "endTime": {
+        "seconds": "106",
+        "nanos": 800000000
+      },
+      "word": "anything,",
+      "confidence": 0.5023849606513977,
+      "speakerTag": 1
+    },
+    {
+      "startTime": {
+        "seconds": "106",
+        "nanos": 900000000
+      },
+      "endTime": {
+        "seconds": "107",
+        "nanos": 100000000
+      },
+      "word": "which",
+      "confidence": 0.9128385782241821,
+      "speakerTag": 1
+    },
+    {
+      "startTime": {
+        "seconds": "107",
+        "nanos": 100000000
+      },
+      "endTime": {
+        "seconds": "107",
+        "nanos": 200000000
+      },
+      "word": "is",
+      "confidence": 0.9128385782241821,
+      "speakerTag": 1
+    },
+    {
+      "startTime": {
+        "seconds": "107",
+        "nanos": 200000000
+      },
+      "endTime": {
+        "seconds": "107",
+        "nanos": 300000000
+      },
+      "word": "going",
+      "confidence": 0.7096244096755981,
+      "speakerTag": 1
+    },
+    {
+      "startTime": {
+        "seconds": "107",
+        "nanos": 300000000
+      },
+      "endTime": {
+        "seconds": "107",
+        "nanos": 600000000
+      },
+      "word": "to",
+      "confidence": 0.42893722653388977,
+      "speakerTag": 1
+    },
+    {
+      "startTime": {
+        "seconds": "107",
+        "nanos": 600000000
+      },
+      "endTime": {
+        "seconds": "107",
+        "nanos": 800000000
+      },
+      "word": "pick",
+      "confidence": 0.9128385782241821,
+      "speakerTag": 1
+    },
+    {
+      "startTime": {
+        "seconds": "107",
+        "nanos": 800000000
+      },
+      "endTime": {
+        "seconds": "108"
+      },
+      "word": "up",
+      "confidence": 0.727620005607605,
+      "speakerTag": 1
+    },
+    {
+      "startTime": {
+        "seconds": "108"
+      },
+      "endTime": {
+        "seconds": "108",
+        "nanos": 100000000
+      },
+      "word": "to",
+      "confidence": 0.9000009298324585,
+      "speakerTag": 1
+    },
+    {
+      "startTime": {
+        "seconds": "108",
+        "nanos": 100000000
+      },
+      "endTime": {
+        "seconds": "108",
+        "nanos": 400000000
+      },
+      "word": "half,",
+      "confidence": 0.7501506805419922,
+      "speakerTag": 1
+    },
+    {
+      "startTime": {
+        "seconds": "108",
+        "nanos": 400000000
+      },
+      "endTime": {
+        "seconds": "109",
+        "nanos": 100000000
+      },
+      "word": "load",
+      "confidence": 0.5213363766670227,
+      "speakerTag": 1
+    },
+    {
+      "startTime": {
+        "seconds": "109",
+        "nanos": 100000000
+      },
+      "endTime": {
+        "seconds": "109",
+        "nanos": 300000000
+      },
+      "word": "the",
+      "confidence": 0.9128385782241821,
+      "speakerTag": 1
+    },
+    {
+      "startTime": {
+        "seconds": "109",
+        "nanos": 300000000
+      },
+      "endTime": {
+        "seconds": "109",
+        "nanos": 800000000
+      },
+      "word": "1st",
+      "confidence": 0.6506931185722351,
+      "speakerTag": 1
+    },
+    {
+      "startTime": {
+        "seconds": "109",
+        "nanos": 800000000
+      },
+      "endTime": {
+        "seconds": "110",
+        "nanos": 200000000
+      },
+      "word": "10",
+      "confidence": 0.3664548099040985,
+      "speakerTag": 1
+    },
+    {
+      "startTime": {
+        "seconds": "110",
+        "nanos": 300000000
+      },
+      "endTime": {
+        "seconds": "110",
+        "nanos": 400000000
+      },
+      "word": "and",
+      "confidence": 0.9128385782241821,
+      "speakerTag": 1
+    },
+    {
+      "startTime": {
+        "seconds": "110",
+        "nanos": 400000000
+      },
+      "endTime": {
+        "seconds": "110",
+        "nanos": 600000000
+      },
+      "word": "then",
+      "confidence": 0.9128385782241821,
+      "speakerTag": 1
+    },
+    {
+      "startTime": {
+        "seconds": "110",
+        "nanos": 600000000
+      },
+      "endTime": {
+        "seconds": "110",
+        "nanos": 700000000
+      },
+      "word": "come",
+      "confidence": 0.7262517213821411,
+      "speakerTag": 1
+    },
+    {
+      "startTime": {
+        "seconds": "110",
+        "nanos": 700000000
+      },
+      "endTime": {
+        "seconds": "111"
+      },
+      "word": "back",
+      "confidence": 0.34988921880722046,
+      "speakerTag": 1
+    },
+    {
+      "startTime": {
+        "seconds": "111"
+      },
+      "endTime": {
+        "seconds": "111",
+        "nanos": 100000000
+      },
+      "word": "to",
+      "confidence": 0.7060034275054932,
+      "speakerTag": 1
+    },
+    {
+      "startTime": {
+        "seconds": "111",
+        "nanos": 100000000
+      },
+      "endTime": {
+        "seconds": "111",
+        "nanos": 100000000
+      },
+      "word": "a",
+      "confidence": 0.9128385782241821,
+      "speakerTag": 1
+    },
+    {
+      "startTime": {
+        "seconds": "111",
+        "nanos": 100000000
+      },
+      "endTime": {
+        "seconds": "111",
+        "nanos": 500000000
+      },
+      "word": "different",
+      "confidence": 0.6518071293830872,
+      "speakerTag": 1
+    },
+    {
+      "startTime": {
+        "seconds": "111",
+        "nanos": 500000000
+      },
+      "endTime": {
+        "seconds": "112"
+      },
+      "word": "location",
+      "confidence": 0.39418506622314453,
+      "speakerTag": 1
+    },
+    {
+      "startTime": {
+        "seconds": "112"
+      },
+      "endTime": {
+        "seconds": "112",
+        "nanos": 100000000
+      },
+      "word": "for",
+      "confidence": 0.9128385782241821,
+      "speakerTag": 1
+    },
+    {
+      "startTime": {
+        "seconds": "112",
+        "nanos": 100000000
+      },
+      "endTime": {
+        "seconds": "112",
+        "nanos": 200000000
+      },
+      "word": "the",
+      "confidence": 0.6292687058448792,
+      "speakerTag": 1
+    },
+    {
+      "startTime": {
+        "seconds": "112",
+        "nanos": 200000000
+      },
+      "endTime": {
+        "seconds": "112",
+        "nanos": 400000000
+      },
+      "word": "other",
+      "confidence": 0.9128385782241821,
+      "speakerTag": 1
+    },
+    {
+      "startTime": {
+        "seconds": "112",
+        "nanos": 400000000
+      },
+      "endTime": {
+        "seconds": "112",
+        "nanos": 600000000
+      },
+      "word": "one.",
+      "confidence": 0.7341428399085999,
+      "speakerTag": 1
+    },
+    {
+      "startTime": {
+        "seconds": "112",
+        "nanos": 600000000
+      },
+      "endTime": {
+        "seconds": "112",
+        "nanos": 700000000
+      },
+      "word": "So",
+      "confidence": 0.7060033679008484,
+      "speakerTag": 1
+    },
+    {
+      "startTime": {
+        "seconds": "112",
+        "nanos": 700000000
+      },
+      "endTime": {
+        "seconds": "113",
+        "nanos": 300000000
+      },
+      "word": "they're",
+      "confidence": 0.43968427181243896,
+      "speakerTag": 1
+    },
+    {
+      "startTime": {
+        "seconds": "113",
+        "nanos": 300000000
+      },
+      "endTime": {
+        "seconds": "113",
+        "nanos": 500000000
+      },
+      "word": "going",
+      "confidence": 0.9128385782241821,
+      "speakerTag": 1
+    },
+    {
+      "startTime": {
+        "seconds": "113",
+        "nanos": 500000000
+      },
+      "endTime": {
+        "seconds": "113",
+        "nanos": 600000000
+      },
+      "word": "to",
+      "confidence": 0.6700884103775024,
+      "speakerTag": 1
+    },
+    {
+      "startTime": {
+        "seconds": "113",
+        "nanos": 600000000
+      },
+      "endTime": {
+        "seconds": "113",
+        "nanos": 700000000
+      },
+      "word": "the",
+      "confidence": 0.9128385782241821,
+      "speakerTag": 1
+    },
+    {
+      "startTime": {
+        "seconds": "113",
+        "nanos": 700000000
+      },
+      "endTime": {
+        "seconds": "114",
+        "nanos": 100000000
+      },
+      "word": "same",
+      "confidence": 0.5711114406585693,
+      "speakerTag": 1
+    },
+    {
+      "startTime": {
+        "seconds": "114",
+        "nanos": 300000000
+      },
+      "endTime": {
+        "seconds": "115",
+        "nanos": 500000000
+      },
+      "word": "number.",
+      "confidence": 0.4694344103336334,
+      "speakerTag": 1
+    },
+    {
+      "startTime": {
+        "seconds": "115",
+        "nanos": 500000000
+      },
+      "endTime": {
+        "seconds": "116",
+        "nanos": 500000000
+      },
+      "word": "So",
+      "confidence": 0.44184625148773193,
+      "speakerTag": 2
+    },
+    {
+      "startTime": {
+        "seconds": "117",
+        "nanos": 300000000
+      },
+      "endTime": {
+        "seconds": "117",
+        "nanos": 900000000
+      },
+      "word": "both",
+      "confidence": 0.7660601735115051,
+      "speakerTag": 2
+    },
+    {
+      "startTime": {
+        "seconds": "117",
+        "nanos": 900000000
+      },
+      "endTime": {
+        "seconds": "118",
+        "nanos": 300000000
+      },
+      "word": "these",
+      "confidence": 0.6388795971870422,
+      "speakerTag": 2
+    },
+    {
+      "startTime": {
+        "seconds": "118",
+        "nanos": 300000000
+      },
+      "endTime": {
+        "seconds": "118",
+        "nanos": 600000000
+      },
+      "word": "pick",
+      "confidence": 0.5998663902282715,
+      "speakerTag": 2
+    },
+    {
+      "startTime": {
+        "seconds": "118",
+        "nanos": 600000000
+      },
+      "endTime": {
+        "seconds": "118",
+        "nanos": 900000000
+      },
+      "word": "up.",
+      "confidence": 0.5180531144142151,
+      "speakerTag": 2
+    },
+    {
+      "startTime": {
+        "seconds": "119"
+      },
+      "endTime": {
+        "seconds": "119",
+        "nanos": 100000000
+      },
+      "word": "I",
+      "confidence": 0.6098335981369019,
+      "speakerTag": 2
+    },
+    {
+      "startTime": {
+        "seconds": "119",
+        "nanos": 100000000
+      },
+      "endTime": {
+        "seconds": "119",
+        "nanos": 400000000
+      },
+      "word": "need",
+      "confidence": 0.9128385782241821,
+      "speakerTag": 2
+    },
+    {
+      "startTime": {
+        "seconds": "119",
+        "nanos": 400000000
+      },
+      "endTime": {
+        "seconds": "119",
+        "nanos": 500000000
+      },
+      "word": "to",
+      "confidence": 0.6215729117393494,
+      "speakerTag": 2
+    },
+    {
+      "startTime": {
+        "seconds": "119",
+        "nanos": 500000000
+      },
+      "endTime": {
+        "seconds": "120",
+        "nanos": 400000000
+      },
+      "word": "represent",
+      "confidence": 0.5323909521102905,
+      "speakerTag": 2
+    },
+    {
+      "startTime": {
+        "seconds": "120",
+        "nanos": 700000000
+      },
+      "endTime": {
+        "seconds": "121",
+        "nanos": 100000000
+      },
+      "word": "one",
+      "confidence": 0.7844772338867188,
+      "speakerTag": 2
+    },
+    {
+      "startTime": {
+        "seconds": "121",
+        "nanos": 300000000
+      },
+      "endTime": {
+        "seconds": "122",
+        "nanos": 700000000
+      },
+      "word": "oil",
+      "confidence": 0.3851097822189331,
+      "speakerTag": 2
+    },
+    {
+      "startTime": {
+        "seconds": "122",
+        "nanos": 700000000
+      },
+      "endTime": {
+        "seconds": "124",
+        "nanos": 500000000
+      },
+      "word": "gflc",
+      "confidence": 0.7573159337043762,
+      "speakerTag": 2
+    },
+    {
+      "startTime": {
+        "seconds": "124",
+        "nanos": 500000000
+      },
+      "endTime": {
+        "seconds": "125",
+        "nanos": 600000000
+      },
+      "word": "11.",
+      "confidence": 0.375,
+      "speakerTag": 2
+    },
+    {
+      "startTime": {
+        "seconds": "126",
+        "nanos": 500000000
+      },
+      "endTime": {
+        "seconds": "127"
+      },
+      "word": "Yeah.",
+      "confidence": 0.9128385782241821,
+      "speakerTag": 1
+    },
+    {
+      "startTime": {
+        "seconds": "127",
+        "nanos": 700000000
+      },
+      "endTime": {
+        "seconds": "127",
+        "nanos": 900000000
+      },
+      "word": "Yeah.",
+      "confidence": 0.9128385782241821,
+      "speakerTag": 1
+    },
+    {
+      "startTime": {
+        "seconds": "127",
+        "nanos": 900000000
+      },
+      "endTime": {
+        "seconds": "128",
+        "nanos": 100000000
+      },
+      "word": "You",
+      "confidence": 0.8906172513961792,
+      "speakerTag": 1
+    },
+    {
+      "startTime": {
+        "seconds": "128",
+        "nanos": 100000000
+      },
+      "endTime": {
+        "seconds": "128",
+        "nanos": 600000000
+      },
+      "word": "just",
+      "confidence": 0.7163280248641968,
+      "speakerTag": 1
+    },
+    {
+      "startTime": {
+        "seconds": "128",
+        "nanos": 700000000
+      },
+      "endTime": {
+        "seconds": "129",
+        "nanos": 400000000
+      },
+      "word": "they'll",
+      "confidence": 0.7255783081054688,
+      "speakerTag": 1
+    },
+    {
+      "startTime": {
+        "seconds": "129",
+        "nanos": 400000000
+      },
+      "endTime": {
+        "seconds": "129",
+        "nanos": 600000000
+      },
+      "word": "let",
+      "confidence": 0.9128385782241821,
+      "speakerTag": 1
+    },
+    {
+      "startTime": {
+        "seconds": "129",
+        "nanos": 600000000
+      },
+      "endTime": {
+        "seconds": "129",
+        "nanos": 700000000
+      },
+      "word": "you",
+      "confidence": 0.7814920544624329,
+      "speakerTag": 1
+    },
+    {
+      "startTime": {
+        "seconds": "129",
+        "nanos": 700000000
+      },
+      "endTime": {
+        "seconds": "129",
+        "nanos": 800000000
+      },
+      "word": "know",
+      "confidence": 0.7410916686058044,
+      "speakerTag": 1
+    },
+    {
+      "startTime": {
+        "seconds": "129",
+        "nanos": 800000000
+      },
+      "endTime": {
+        "seconds": "130"
+      },
+      "word": "that's",
+      "confidence": 0.5820203423500061,
+      "speakerTag": 1
+    },
+    {
+      "startTime": {
+        "seconds": "130"
+      },
+      "endTime": {
+        "seconds": "130",
+        "nanos": 200000000
+      },
+      "word": "coming",
+      "confidence": 0.7208447456359863,
+      "speakerTag": 1
+    },
+    {
+      "startTime": {
+        "seconds": "130",
+        "nanos": 200000000
+      },
+      "endTime": {
+        "seconds": "130",
+        "nanos": 300000000
+      },
+      "word": "in.",
+      "confidence": 0.7289978861808777,
+      "speakerTag": 1
+    },
+    {
+      "startTime": {
+        "seconds": "130",
+        "nanos": 300000000
+      },
+      "endTime": {
+        "seconds": "130",
+        "nanos": 400000000
+      },
+      "word": "If",
+      "confidence": 0.7954244613647461,
+      "speakerTag": 1
+    },
+    {
+      "startTime": {
+        "seconds": "130",
+        "nanos": 400000000
+      },
+      "endTime": {
+        "seconds": "130",
+        "nanos": 400000000
+      },
+      "word": "you",
+      "confidence": 0.6719815731048584,
+      "speakerTag": 1
+    },
+    {
+      "startTime": {
+        "seconds": "130",
+        "nanos": 400000000
+      },
+      "endTime": {
+        "seconds": "130",
+        "nanos": 600000000
+      },
+      "word": "have",
+      "confidence": 0.5570234656333923,
+      "speakerTag": 1
+    },
+    {
+      "startTime": {
+        "seconds": "130",
+        "nanos": 600000000
+      },
+      "endTime": {
+        "seconds": "130",
+        "nanos": 800000000
+      },
+      "word": "problems",
+      "confidence": 0.5625151991844177,
+      "speakerTag": 1
+    },
+    {
+      "startTime": {
+        "seconds": "130",
+        "nanos": 800000000
+      },
+      "endTime": {
+        "seconds": "130",
+        "nanos": 900000000
+      },
+      "word": "to",
+      "confidence": 0.6047251224517822,
+      "speakerTag": 1
+    },
+    {
+      "startTime": {
+        "seconds": "130",
+        "nanos": 900000000
+      },
+      "endTime": {
+        "seconds": "131",
+        "nanos": 100000000
+      },
+      "word": "pick",
+      "confidence": 0.7332553863525391,
+      "speakerTag": 1
+    },
+    {
+      "startTime": {
+        "seconds": "131",
+        "nanos": 100000000
+      },
+      "endTime": {
+        "seconds": "131",
+        "nanos": 200000000
+      },
+      "word": "up",
+      "confidence": 0.7270140647888184,
+      "speakerTag": 1
+    },
+    {
+      "startTime": {
+        "seconds": "131",
+        "nanos": 200000000
+      },
+      "endTime": {
+        "seconds": "131",
+        "nanos": 400000000
+      },
+      "word": "just",
+      "confidence": 0.7209593653678894,
+      "speakerTag": 1
+    },
+    {
+      "startTime": {
+        "seconds": "131",
+        "nanos": 400000000
+      },
+      "endTime": {
+        "seconds": "131",
+        "nanos": 500000000
+      },
+      "word": "let",
+      "confidence": 0.604408860206604,
+      "speakerTag": 1
+    },
+    {
+      "startTime": {
+        "seconds": "131",
+        "nanos": 500000000
+      },
+      "endTime": {
+        "seconds": "131",
+        "nanos": 600000000
+      },
+      "word": "me",
+      "confidence": 0.5081915259361267,
+      "speakerTag": 2
+    },
+    {
+      "startTime": {
+        "seconds": "131",
+        "nanos": 600000000
+      },
+      "endTime": {
+        "seconds": "132",
+        "nanos": 100000000
+      },
+      "word": "know.",
+      "confidence": 0.5315908193588257,
+      "speakerTag": 2
+    },
+    {
+      "startTime": {
+        "seconds": "133",
+        "nanos": 100000000
+      },
+      "endTime": {
+        "seconds": "133",
+        "nanos": 500000000
+      },
+      "word": "Okay,",
+      "confidence": 0.9128385782241821,
+      "speakerTag": 2
+    },
+    {
+      "startTime": {
+        "seconds": "133",
+        "nanos": 600000000
+      },
+      "endTime": {
+        "seconds": "134"
+      },
+      "word": "okay,",
+      "confidence": 0.9128385782241821,
+      "speakerTag": 2
+    },
+    {
+      "startTime": {
+        "seconds": "134"
+      },
+      "endTime": {
+        "seconds": "134",
+        "nanos": 500000000
+      },
+      "word": "okay,",
+      "confidence": 0.9128385782241821,
+      "speakerTag": 2
+    },
+    {
+      "startTime": {
+        "seconds": "134",
+        "nanos": 500000000
+      },
+      "endTime": {
+        "seconds": "134",
+        "nanos": 700000000
+      },
+      "word": "got",
+      "confidence": 0.5515086054801941,
+      "speakerTag": 2
+    },
+    {
+      "startTime": {
+        "seconds": "134",
+        "nanos": 700000000
+      },
+      "endTime": {
+        "seconds": "134",
+        "nanos": 900000000
+      },
+      "word": "this.",
+      "confidence": 0.8320091366767883,
+      "speakerTag": 2
+    },
+    {
+      "startTime": {
+        "seconds": "135",
+        "nanos": 300000000
+      },
+      "endTime": {
+        "seconds": "135",
+        "nanos": 400000000
+      },
+      "word": "I'm",
+      "confidence": 0.9128385782241821,
+      "speakerTag": 2
+    },
+    {
+      "startTime": {
+        "seconds": "135",
+        "nanos": 400000000
+      },
+      "endTime": {
+        "seconds": "135",
+        "nanos": 700000000
+      },
+      "word": "heading",
+      "confidence": 0.8688820600509644,
+      "speakerTag": 2
+    },
+    {
+      "startTime": {
+        "seconds": "135",
+        "nanos": 700000000
+      },
+      "endTime": {
+        "seconds": "136",
+        "nanos": 500000000
+      },
+      "word": "towards",
+      "confidence": 0.7250882983207703,
+      "speakerTag": 2
+    },
+    {
+      "startTime": {
+        "seconds": "136",
+        "nanos": 500000000
+      },
+      "endTime": {
+        "seconds": "137"
+      },
+      "word": "Pomona.",
+      "confidence": 0.714887797832489,
+      "speakerTag": 2
+    },
+    {
+      "startTime": {
+        "seconds": "137",
+        "nanos": 300000000
+      },
+      "endTime": {
+        "seconds": "137",
+        "nanos": 500000000
+      },
+      "word": "Thank",
+      "confidence": 0.9128385782241821,
+      "speakerTag": 2
+    },
+    {
+      "startTime": {
+        "seconds": "137",
+        "nanos": 500000000
+      },
+      "endTime": {
+        "seconds": "137",
+        "nanos": 500000000
+      },
+      "word": "you",
+      "confidence": 0.5619217753410339,
+      "speakerTag": 2
+    },
+    {
+      "startTime": {
+        "seconds": "137",
+        "nanos": 500000000
+      },
+      "endTime": {
+        "seconds": "137",
+        "nanos": 700000000
+      },
+      "word": "very",
+      "confidence": 0.7121437191963196,
+      "speakerTag": 2
+    },
+    {
+      "startTime": {
+        "seconds": "137",
+        "nanos": 700000000
+      },
+      "endTime": {
+        "seconds": "137",
+        "nanos": 800000000
+      },
+      "word": "much.",
+      "confidence": 0.7047057747840881,
+      "speakerTag": 2
+    },
+    {
+      "startTime": {
+        "seconds": "137",
+        "nanos": 800000000
+      },
+      "endTime": {
+        "seconds": "137",
+        "nanos": 900000000
+      },
+      "word": "All",
+      "confidence": 0.45842215418815613,
+      "speakerTag": 2
+    },
+    {
+      "startTime": {
+        "seconds": "137",
+        "nanos": 900000000
+      },
+      "endTime": {
+        "seconds": "138"
+      },
+      "word": "right,",
+      "confidence": 0.4350958466529846,
+      "speakerTag": 1
+    },
+    {
+      "startTime": {
+        "seconds": "138"
+      },
+      "endTime": {
+        "seconds": "138",
+        "nanos": 300000000
+      },
+      "word": "thanks",
+      "confidence": 0.9128385782241821,
+      "speakerTag": 1
+    },
+    {
+      "startTime": {
+        "seconds": "138",
+        "nanos": 300000000
+      },
+      "endTime": {
+        "seconds": "138",
+        "nanos": 500000000
+      },
+      "word": "man,",
+      "confidence": 0.7071100473403931,
+      "speakerTag": 1
+    },
+    {
+      "startTime": {
+        "seconds": "139",
+        "nanos": 200000000
+      },
+      "endTime": {
+        "seconds": "139",
+        "nanos": 400000000
+      },
+      "word": "thank",
+      "confidence": 0.9128385782241821,
+      "speakerTag": 2
+    },
+    {
+      "startTime": {
+        "seconds": "139",
+        "nanos": 400000000
+      },
+      "endTime": {
+        "seconds": "139",
+        "nanos": 600000000
+      },
+      "word": "you,",
+      "confidence": 0.5108360052108765,
+      "speakerTag": 2
+    },
+    {
+      "startTime": {
+        "seconds": "139",
+        "nanos": 600000000
+      },
+      "endTime": {
+        "seconds": "139",
+        "nanos": 900000000
+      },
+      "word": "thank",
+      "confidence": 0.9128385782241821,
+      "speakerTag": 2
+    },
+    {
+      "startTime": {
+        "seconds": "139",
+        "nanos": 900000000
+      },
+      "endTime": {
+        "seconds": "140",
+        "nanos": 100000000
+      },
+      "word": "you.",
+      "confidence": 0.48472079634666443,
+      "speakerTag": 2
+    },
+    {
+      "startTime": {
+        "seconds": "140",
+        "nanos": 100000000
+      },
+      "endTime": {
+        "seconds": "140",
+        "nanos": 500000000
+      },
+      "word": "Okay.",
+      "confidence": 0.9099875092506409,
+      "speakerTag": 2
+    }
+  ]
+}
